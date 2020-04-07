@@ -1,5 +1,5 @@
 ---
-title : "python - 문자형"
+title : "2.python - 문자형"
 excerpt : "문자형 자료형 사용법"
 toc : true
 toc_sticky : true

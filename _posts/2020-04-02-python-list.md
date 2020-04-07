@@ -1,5 +1,5 @@
 ---
-title : "python - List"
+title : "3.python - List"
 excerpt : "리스트 자료형 사용법"
 toc : true
 toc_sticky : true
