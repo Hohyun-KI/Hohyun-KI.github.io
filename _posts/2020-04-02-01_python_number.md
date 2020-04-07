@@ -1,5 +1,5 @@
 ---
-title : "1.python - 숫자형"
+title : "python - 숫자형"
 excerpt : "숫자형 자료형 사용법"
 toc : true
 toc_sticky : true
